@@ -15,6 +15,8 @@ title: Flammentanz - Franziska
         <p class="text">
             Als professionelle Tänzerin und Feuerartistin liebe ich es, individuelle Shows zu kreieren, die die
             Intensität des Tanzes mit der Magie des Feuers vereinen.
+
+            
         </p>
         <p class="text">
             Ich bringe jahrelange Performance-Erfahrung auf Hochzeiten, Festivals und Feiern mit, dazu gehört unter
@@ -34,6 +36,7 @@ title: Flammentanz - Franziska
     </div>
     <div class="right">
         <img src="{{ 'images/feuershow6.jpeg' | relative_url}} loading="lazy" alt="Feuershow 1"/>
+        <img src="{{ 'images/feuershow4.jpeg' | relative_url}} loading="lazy" alt="Feuershow 1"/>
         <img src="{{ 'images/feuershow3.jpeg' | relative_url}} loading="lazy" alt="Feuershow 2"/>
     </div>
 </div>
