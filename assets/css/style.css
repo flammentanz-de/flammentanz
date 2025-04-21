@@ -40,16 +40,16 @@ main {
 
 h1.title {
     color: var(--front1);
-    padding-top: 4em;
+    padding-top: 2em;
     font-family: EyesomeScript, sans-serif;
-    font-size: 5em;
+    font-size: 7em;
 }
 
 h2.name {
-    font-weight: lighter;
+    font-weight: 300;
     text-transform: uppercase;
     color: var(--front1);
-    font-size: 2em;
+    font-size: 3em;
 }
 
 .second-slide {
