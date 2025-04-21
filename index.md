@@ -9,7 +9,7 @@ title: Flammentanz - Franziska
 </div>
 
 <div class="second-slide one-box">
-    <div class="left">
+    <div class="text-box">
         <h4>Flammentanz</h4>
         <h5>Erlebe spektakuläre Feuerkunst, die verzaubert!</h5>
         <p class="text">
@@ -32,12 +32,13 @@ title: Flammentanz - Franziska
             unvergessliche Momente sorgt!
         </p>
     </div>
-    <div class="right">
+    <div class="images">
         <img src="images/feuershow6.jpeg" loading="lazy" alt="Feuershow 1"/>
         <img src="images/feuershow3.jpeg" loading="lazy" alt="Feuershow 2"/>
         <img src="images/2G4A0024_edited.jpg" loading="lazy" alt="Feuershow 2"/>
     </div>
 </div>
+
 
 <div class="third-slide">
     <h4>Kontakt</h4>
