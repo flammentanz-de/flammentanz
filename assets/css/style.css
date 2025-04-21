@@ -51,6 +51,8 @@ h2.name {
     color: var(--front1);
     font-size: 3em;
     letter-spacing: 0.07em;
+    position: relative;
+      top: 1em;
 }
 
 .second-slide {
@@ -69,8 +71,8 @@ h4 {
 }
 
 h5 {
-    font-size: 1.4em;
-    font-weight: 300;
+font-size: 2em;
+  font-weight: 400;
     text-transform: uppercase;
     margin-bottom: 1em;
     line-height: 2em;
