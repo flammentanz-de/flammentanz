@@ -25,7 +25,6 @@ main {
     position: absolute;
     display: flex;
     flex-direction: column;
-    background: var(--background1);
 }
 
 .first-slide {
