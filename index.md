@@ -33,8 +33,8 @@ title: Flammentanz - Franziska
         </p>
     </div>
     <div class="right">
-        <img src="{{ 'images/feuershow6.jpeg' | relative_url}} loading="lazy" alt="Feuershow 1"/>
-        <img src="{{ 'images/feuershow3.jpeg' | relative_url}} loading="lazy" alt="Feuershow 2"/>
+        <img src="images/feuershow6.jpeg" loading="lazy" alt="Feuershow 1"/>
+        <img src="images/feuershow3.jpeg" loading="lazy" alt="Feuershow 2"/>
     </div>
 </div>
 
