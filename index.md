@@ -7,7 +7,6 @@ title: Flammentanz - Franziska
     <h1 class="title">Flammentanz</h1>
     <h2 class="name">Feuershows Franziska Graf</h2>
 </div>
-
 <div class="second-slide one-box">
     <div class="text-box">
         <h5>Tanz. Feuer. Faszination.<br/>Erlebe spektakuläre Feuerkunst, die verzaubert!</h5>
@@ -17,12 +16,10 @@ title: Flammentanz - Franziska
         <p class="text">
             Ob sinnlich-elegant, kraftvoll-dynamisch oder geheimnisvoll-feurig – die Choreografien in meinen Shows sind Erlebnisse, die berühren, begeistern und unvergesslich bleiben.
    </p>
-       
             <h5>Die Magie des Feuers</h5>
              <p class="text">
   Wenn Funken fliegen und Flammen im Rhythmus zur Musik tanzen, entsteht ein hypnotischer Moment zwischen Gefahr und Schönheit. Mit sicherer Technik, kreativen Requisiten und feurigem Charisma erschaffe ich Shows, die Emotionen entfachen und Staunen hinterlassen.
   </p><h5>Ausdrucksstarke Tanzkunst</h5>
-       
         <p class="text">
  Tanz ist mein Weg, Gefühle sichtbar zu machen – kraftvoll, gefühlvoll, individuell. Ob auf Festivals, Bühnen, Events oder privaten Feiern: Ich bringe Bewegung ins Herz und Feuer in die Augen deiner Gäste.
   </p>
@@ -32,9 +29,6 @@ Meine Performance zeichnet sich durch meine künstlerischen Tanzchoreografien, a
 Ich freue mich riesig darauf, dein Event mit einer faszinierenden Feuershow zu erweitern, die für unvergessliche Momente sorgt!
 
   </p>
-        <h5>Über mich</h5>
-        <p class="text">
-Seit meiner Kindheit begleitet mich das Tanzen durch mein Leben. Während meiner Jugend sammelte ich bereits vielfältige Bühnenerfahrung als Mitglied der Contemporary-Dance-Company der Tanzschule von Barbara J. Lins, dem „TanzRAUM“ in Nördlingen. Es folgte eine Ausbildung zur Tanzpädagogin sowie ein Studium der Musik- und bewegungsorientierten Sozialen Arbeit in Regensburg. Seit 2014 bin ich als Tanzpädagogin und Choreografin tätig. Vor über zehn Jahren hielt ich meine ersten Feuerpoi in den Händen, seitdem hat mich die Faszination für Feuerartistik fest im Griff. Tanz und Feuerkunst sind meine Leidenschaft. Im März 2024 habe ich mir einen Traum erfüllt, und mich als Feuerkünstlerin, Tanzpädagogin und Tänzerin selbstständig gemacht.</p>
     </div>
     <div class="images">
         <img src="images/feuershow6.jpeg" loading="lazy" alt="Feuershow 1"/>
@@ -43,7 +37,14 @@ Seit meiner Kindheit begleitet mich das Tanzen durch mein Leben. Während meiner
     </div>
 </div>
  
-
+<div class="second-slide one-box">
+    <div class="text-box">
+        <h4>Über mich</h4>
+        <p class="text">
+Seit meiner Kindheit begleitet mich das Tanzen durch mein Leben. Während meiner Jugend sammelte ich bereits vielfältige Bühnenerfahrung als Mitglied der Contemporary-Dance-Company der Tanzschule von Barbara J. Lins, dem „TanzRAUM“ in Nördlingen. Es folgte eine Ausbildung zur Tanzpädagogin sowie ein Studium der Musik- und bewegungsorientierten Sozialen Arbeit in Regensburg. Seit 2014 bin ich als Tanzpädagogin und Choreografin tätig. Vor über zehn Jahren hielt ich meine ersten Feuerpoi in den Händen, seitdem hat mich die Faszination für Feuerartistik fest im Griff. Tanz und Feuerkunst sind meine Leidenschaft. Im März 2024 habe ich mir einen Traum erfüllt, und mich als Feuerkünstlerin, Tanzpädagogin und Tänzerin selbstständig gemacht.</p>
+    </div>
+    </div>
+    </div>
 
 <div class="third-slide">
     <h4>Kontakt</h4>
