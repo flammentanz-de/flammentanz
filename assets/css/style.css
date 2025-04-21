@@ -27,7 +27,7 @@ main {
     justify-content: center;
     align-items: center;
     flex-direction: column;
-    background: url("../images/feuershow3.jpeg");
+    background: url("../../images/feuershow3.jpeg");
     background-position: -60% 10%;
     background-repeat: no-repeat;
 }
