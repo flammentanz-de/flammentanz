@@ -35,9 +35,8 @@ Ich freue mich riesig darauf, dein Event mit einer faszinierenden Feuershow zu e
         <img src="images/2G4A0024_edited.jpg" loading="lazy" alt="Feuershow 1"/>
         <img src="images/Copy of DSC00632_edited.jpg"lazy" alt="Feuershow 2"/>
         <img src="images/2G4A9126_edited.jpg" loading="lazy" alt="Feuershow 2"/>
+         <img src="images/DSC02722_edited.jpg" loading="lazy" alt="Feuershow 2"/>
          <img src="images/2G4A0707_edited.jpg" loading="lazy" alt="Feuershow 2"/>
-         <img src="images/DSC02636_edited.jpg" loading="lazy" alt="Feuershow 2"/>
-        <img src="images/DSC02722_edited.jpg" loading="lazy" alt="Feuershow 2"/>
     </div>
 </div>
  
