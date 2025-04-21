@@ -54,6 +54,11 @@ Ich freue mich riesig darauf, dein Event mit einer faszinierenden Feuershow zu e
         0176/60812833<br/>
         booking@flammentanz.de
         Jetzt anfragen & verzaubern lassen.
+        Flammentanz
+        Feuershows Franziska Graf
+c/o AutorenServices.de
+Birkenallee 24
+36037 Fulda 
 Kontakt: Impressum Adresse 
 Mail: flammentanz@posteo.de 
 Instagram: flammen_tanz
