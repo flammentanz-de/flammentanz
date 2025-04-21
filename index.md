@@ -10,7 +10,6 @@ title: Flammentanz - Franziska
 
 <div class="second-slide one-box">
     <div class="text-box">
-        <h4>Flammentanz</h4>
         <h5>Erlebe spektakuläre Feuerkunst, die verzaubert!</h5>
         <p class="text">
             Als professionelle Tänzerin und Feuerartistin liebe ich es, individuelle Shows zu kreieren, die die
