@@ -10,22 +10,22 @@ title: Flammentanz - Franziska
 <div class="second-slide one-box">
     <div class="text-box">
         <h5>Tanz. Feuer. Faszination.<br/>Erlebe spektakuläre Feuerkunst, die verzaubert!</h5>
-        <p class="text">
+        <p>
             Willkommen in meiner Welt – einer Welt, in der Bewegung zur Sprache wird und Flammen Geschichten erzählen. Als Tänzerin mit Herz und Seele und Feuerkünstlerin mit Leidenschaft entführe ich mein Publikum in eine Sphäre voller Magie, Ausdruck und Energie.
      </p>
-        <p class="text">
+        <p>
             Ob sinnlich-elegant, kraftvoll-dynamisch oder geheimnisvoll-feurig – die Choreografien in meinen Shows sind Erlebnisse, die berühren, begeistern und unvergesslich bleiben.
    </p>
             <h5>Die Magie des Feuers</h5>
-             <p class="text">
+             <p>
   Wenn Funken fliegen und Flammen im Rhythmus zur Musik tanzen, entsteht ein hypnotischer Moment zwischen Gefahr und Schönheit. Mit sicherer Technik, kreativen Requisiten und feurigem Charisma erschaffe ich Shows, die Emotionen entfachen und Staunen hinterlassen.
   </p><h5>Ausdrucksstarke Tanzkunst</h5>
-        <p class="text">
+        <p>
  Tanz ist mein Weg, Gefühle sichtbar zu machen – kraftvoll, gefühlvoll, individuell. Ob auf Festivals, Bühnen, Events oder privaten Feiern: Ich bringe Bewegung ins Herz und Feuer in die Augen deiner Gäste.
   </p>
-        <p class="text">Als professionelle Tänzerin und Feuerartistin liebe ich es, individuelle Shows zu kreieren, die die Intensität des Tanzes mit der Magie des Feuers vereinen.
+         <p>Als professionelle Tänzerin und Feuerartistin liebe ich es, individuelle Shows zu kreieren, die die Intensität des Tanzes mit der Magie des Feuers vereinen.
   </p>
-    <p class="text">Ich bringe jahrelange Performance-Erfahrung auf Hochzeiten, Festivals und Feiern mit, dazu gehören unter anderem ein Sicherheitskonzept sowie eine Versicherung. Meine Shows begeistern, weil ich jeden Auftritt an den jeweiligen Anlass anpasse, meine Choreografien und die Musik darauf abstimme. Soll meine Show das Highlight auf einer Hochzeit oder gar ein Überraschungs-Geschenk fürs Brautpaar werden, binde ich gerne persönliche Musikwünsche mit ein.
+     <p>Ich bringe jahrelange Performance-Erfahrung auf Hochzeiten, Festivals und Feiern mit, dazu gehören unter anderem ein Sicherheitskonzept sowie eine Versicherung. Meine Shows begeistern, weil ich jeden Auftritt an den jeweiligen Anlass anpasse, meine Choreografien und die Musik darauf abstimme. Soll meine Show das Highlight auf einer Hochzeit oder gar ein Überraschungs-Geschenk fürs Brautpaar werden, binde ich gerne persönliche Musikwünsche mit ein.
 Meine Performance zeichnet sich durch meine künstlerischen Tanzchoreografien, ausdrucksstarke Musik und vielfältige Feuertools inklusive einem großen Funkeneffekt als Finale aus.
 Ich freue mich riesig darauf, dein Event mit einer faszinierenden Feuershow zu erweitern, die für unvergessliche Momente sorgt!
   </p>
