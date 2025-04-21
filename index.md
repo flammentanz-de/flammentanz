@@ -5,7 +5,7 @@ title: Flammentanz - Franziska
 
 <div class="first-slide one-box">
     <h1 class="title">Flammentanz</h1>
-    <h2 class="name">Feuershows Franziska Graf</h2>
+    <h2 class="name"><span style="margin-right: 0.5em">Feuershows</span> Franziska Graf</h2>
 </div>
 <div class="second-slide one-box">
     <div class="text-box">
