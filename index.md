@@ -52,16 +52,16 @@ Ich freue mich riesig darauf, dein Event mit einer faszinierenden Feuershow zu e
         Straßenname 6<br/>
         97072 Würzburg<br/>
         0176/60812833<br/>
-        booking@flammentanz.de
-        Jetzt anfragen & verzaubern lassen.
-        Flammentanz
-        Feuershows Franziska Graf
-c/o AutorenServices.de
-Birkenallee 24
-36037 Fulda 
-Kontakt: Impressum Adresse 
-Mail: flammentanz@posteo.de 
-Instagram: flammen_tanz
+        booking@flammentanz.de<br/>
+        Jetzt anfragen & verzaubern lassen.<br/>
+        Flammentanz<br/>
+        Feuershows Franziska Graf<br/>
+c/o AutorenServices.de<br/>
+Birkenallee 24<br/>
+36037 Fulda <br/>
+Kontakt: Impressum Adresse <br/>
+Mail: flammentanz@posteo.de <br/>
+Instagram: flammen_tanz<br/>
 
     </em>
 </div>
