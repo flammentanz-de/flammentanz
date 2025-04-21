@@ -31,7 +31,8 @@ Ich freue mich riesig darauf, dein Event mit einer faszinierenden Feuershow zu e
   </p>
     </div>
     <div class="images">
-        <img src="images/feuershow6.jpeg" loading="lazy" alt="Feuershow 1"/>
+        <img src="images/2G4A0579_edited.jpg" loading="lazy" alt="Feuershow 1"/>
+        <img src="images/images/DSC02673_edited.jpg" loading="lazy" alt="Feuershow 1"/>
         <img src="images/feuershow3.jpeg" loading="lazy" alt="Feuershow 2"/>
         <img src="images/2G4A0024_edited.jpg" loading="lazy" alt="Feuershow 2"/>
     </div>
