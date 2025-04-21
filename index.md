@@ -35,6 +35,7 @@ title: Flammentanz - Franziska
     <div class="right">
         <img src="images/feuershow6.jpeg" loading="lazy" alt="Feuershow 1"/>
         <img src="images/feuershow3.jpeg" loading="lazy" alt="Feuershow 2"/>
+        <img src="images/2G4A0024_edited.jpg" loading="lazy" alt="Feuershow 2"/>
     </div>
 </div>
 
