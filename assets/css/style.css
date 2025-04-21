@@ -68,7 +68,7 @@ h5 {
     margin-bottom: 1em;
 }
 
-.left {
+.text-box {
     width: calc(100% - 30em);
     display: flex;
     flex-direction: column;
@@ -80,14 +80,14 @@ h5 {
     text-align: center;
 }
 
-.left p.text {
+.text-box p.text {
     font-family: "Montserrat", sans-serif;
     font-size: 1em;
     letter-spacing: 0.032em;
     line-height: 1.5em;
 }
 
-.right {
+.images {
     width: 100%;
     display: flex;
     justify-content: center;
@@ -96,7 +96,7 @@ h5 {
     margin-left: -2em;
 }
 
-.right img {
+.images img {
     width: 70%;
     padding: 0 0 2em 2em;
 }
