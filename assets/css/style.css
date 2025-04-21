@@ -63,7 +63,7 @@ h2.name {
 
 h4 {
     font-family: EyesomeScript, sans-serif !important;
-    font-size: 2em !important;
+    font-size: 3em !important;
     margin-bottom: 0 !important;
 }
 
@@ -86,7 +86,7 @@ h5 {
     text-align: center;
 }
 
-.text-box p.text {
+.text-box p {
     font-family: "Montserrat", sans-serif;
     font-size: 1.2em;
     letter-spacing: 0.032em;
