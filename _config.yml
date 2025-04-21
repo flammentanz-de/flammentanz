@@ -1,0 +1,18 @@
+title: Flammentanz
+description: Franziska Graf - Professionelle Tänzerin und Feuerartistin
+baseurl: ""
+url: ""
+markdown: kramdown
+theme: minima
+plugins:
+  - jekyll-seo-tag
+
+# Exclude these files from the build
+exclude:
+  - Gemfile
+  - Gemfile.lock
+  - node_modules
+  - vendor
+
+sass:
+  style: compressed
