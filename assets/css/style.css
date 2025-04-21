@@ -50,6 +50,7 @@ h2.name {
     text-transform: uppercase;
     color: var(--front1);
     font-size: 3em;
+    letter-spacing: 0.07em;
 }
 
 .second-slide {
