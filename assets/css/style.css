@@ -147,7 +147,12 @@ font-size: 2em;
         font-size: 1em;
         letter-spacing: 0.03em;
     }
-    
+    video.background-video {
+        top: 5em;
+      width: 100%;
+        min-width: none;
+        min-heigt: none;
+    }
 }
 
 @media (min-width: 799px) and (max-width: 1299px) {
@@ -161,6 +166,12 @@ font-size: 2em;
         line-height: 1.4em;
         font-size: 1em;
         letter-spacing: 0.03em;
+    }
+    video.background-video {
+        top: 5em;
+      width: 100%;
+        min-width: none;
+        min-heigt: none;
     }
 }
 
