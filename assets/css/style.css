@@ -139,11 +139,24 @@ font-size: 2em;
     .first-slide {
         background-position: 59% 49%;
     }
+    .text-box {
+        width: calc(100% - 2em);
+    }
+    .text-box p {
+        line-height: 1.4em;
+    }
+    
 }
 
 @media (min-width: 799px) and (max-width: 1299px) {
     .first-slide {
         background-position: 40% 0;
+    }
+    .text-box {
+        width: calc(100% - 5em);
+    }
+    .text-box p {
+        line-height: 1.4em;
     }
 }
 
@@ -151,6 +164,7 @@ font-size: 2em;
     .second-slide {
         grid-template-columns: 1fr;
     }
+    
 
     .left, .right {
         margin: auto;
@@ -166,6 +180,9 @@ font-size: 2em;
     }
 
     h2.name {
-        font-size: 1.5em;
+        font-size: 1.2em;
+    }
+    h5 {
+        font-size: 1.7em;
     }
 }
